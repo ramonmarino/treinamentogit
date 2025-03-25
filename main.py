@@ -1,6 +1,8 @@
 # This is a sample Python script.
 
 print("Hello World!")
+print("Brincando com o git um pouquinho")
+print("treinando comportamento e comandos")
 
 
 def print_hi(name):
